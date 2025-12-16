@@ -1,4 +1,4 @@
-// File: C:\Users\USER\Desktop\office_work\New folder\bad-review\app\[adminId]\[posterId]\[verifyId]\page.jsx
+// File: C:\Users\USER\Desktop\office_work\New folder\escort-list\app\[adminId]\[posterId]\[verifyId]\page.jsx
 import * as entry from '../../../../../../app/[adminId]/[posterId]/[verifyId]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
