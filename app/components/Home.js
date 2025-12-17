@@ -16,12 +16,12 @@ export default function Home({ adminId, posterId }) {
               onClick={() => setNext(true)}
             >
               <img
-                src="/images/banner.png"
+                src="/newImageBg.jpg"
                 alt="megaeprsonals"
                 className="w-full h-full object-cover hidden md:block"
               />
               <img
-                src="/bad_review_mobile.jpg"
+                src="/newImageBg.jpg"
                 alt="megaeprsonals"
                 fill="cover"
                 className="w-full h-full object-cover blog md:hidden"
